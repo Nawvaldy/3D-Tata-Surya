@@ -1,6 +1,6 @@
 # 3D Solar System
 
-A Pen created on CodePen.io. Original URL: [https://codepen.io/Nopal-the-animator/pen/bGZMPRY]([https://codepen.io/juliangarnier/pen/krNqZO](https://codepen.io/Nopal-the-animator/pen/bGZMPRY)).
+A Pen created on CodePen.io. Original URL: [https://codepen.io/Nopal-the-animator/pen/bGZMPRY](https://codepen.io/Nopal-the-animator/pen/bGZMPRY).
 
 Github repo : https://github.com/juliangarnier/3D-CSS-Solar-System
 Works better in webkit, buggy in FF, flat in IE. 
